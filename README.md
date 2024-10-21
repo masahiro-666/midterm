@@ -44,3 +44,4 @@ I tackled features one by one, starting with basic stuff like adding grades and 
 Each part was tested on its own to make sure it worked right, and then I checked to see how everything worked together. No broken pieces allowed!
 
 # Kittikan Khonaban 1650704271 CS319 Sec 427A No.40
+P.S. JS files files are used for run test.
